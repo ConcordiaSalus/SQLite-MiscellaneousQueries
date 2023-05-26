@@ -1,5 +1,5 @@
 
--- SQLite3: Generate SQL Calendar
+-- SQLite3: Generate SQL Table Calendar
 
 DROP TABLE IF EXISTS calendar;
 CREATE TABLE IF NOT EXISTS calendar (
