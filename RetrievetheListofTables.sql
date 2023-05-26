@@ -8,3 +8,4 @@ FROM
 WHERE 
     type ='table' AND 
     name NOT LIKE 'sqlite_%';
+    
